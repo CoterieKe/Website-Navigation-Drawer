@@ -1,0 +1,36 @@
+{
+  "name": "navigationdrawer",
+  "description": "Coterie navigation menu",
+  "main": "gulpfile.js",
+  "authors": [
+    "Ben <ben@coterie.co.ke>"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "coterie",
+    "navigation"
+  ],
+  "homepage": "http://coterie.co.ke",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "jquery": "^3.2.1",
+    "hammerjs": "^2.0.8",
+    "gsap": "^1.19.1",
+    "font-awesome": "^4.7.0",
+    "bootstrap": "^3.3.7"
+  },
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "hammerjs": "^2.0.8",
+    "gsap": "^1.19.1",
+    "font-awesome": "^4.7.0",
+    "bootstrap": "^3.3.7"
+  }
+}
